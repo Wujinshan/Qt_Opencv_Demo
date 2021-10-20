@@ -1,0 +1,4 @@
+/home/qc21/MyProject/Qt_Opencv_demo1/build/CMakeFiles/rebuild_cache.dir
+/home/qc21/MyProject/Qt_Opencv_demo1/build/CMakeFiles/Build_Qt_Opencv_Demo.dir
+/home/qc21/MyProject/Qt_Opencv_demo1/build/CMakeFiles/edit_cache.dir
+/home/qc21/MyProject/Qt_Opencv_demo1/build/CMakeFiles/Build_Qt_Opencv_Demo_autogen.dir
