@@ -16,4 +16,4 @@ When you click the "Start" button, the camera on your laptop will be opened, and
 
 Tips: Before you run the demo, please make sure you have installed the Qt5 and Opencv correctly. 
 
-If you are a Chinese person, you can also read a more specific explanation in my blog, here is the link: 
+If you are a Chinese person, you can also read a more specific explanation in my blog, here is the link: https://blog.csdn.net/qq_42823342/article/details/120873312
